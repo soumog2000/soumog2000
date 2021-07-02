@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soumog2000
 - 👀 I’m interested in ..Cyber Security, Web Development & Backend.
-- 🌱 I’m currently learning ...Python
+- 🌱 I’m currently learning ...Java, Html, CSS, JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
